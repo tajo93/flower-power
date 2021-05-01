@@ -1,0 +1,6 @@
+###
+PUT http://localhost:9000/msg
+Content-Type: application/json
+
+{ "recipient": "test", "text": "this should be a message!" }
+<> 2021-05-01T152529.404.json
